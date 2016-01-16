@@ -543,6 +543,14 @@ html { box-sizing: border-box; }
   
   
   
+  nav .p-winners { border-color: ; }
+  #winners { background-color:  !important; color: ; }
+  #winners a { color: ; }
+  #winners .sectiondivider { color: ; }
+
+  
+  
+  
   nav .p-winners { border-color: #9bcf2f; }
   #winners { background-color: #9bcf2f !important; color: #f8f8f8; }
   #winners a { color: #f8f8f8; }
