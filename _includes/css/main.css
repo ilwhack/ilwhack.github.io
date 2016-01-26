@@ -127,6 +127,7 @@ nav {
   top:0;
   left:0;
   background:#2e2e2e;
+  display: inline-block;
 }
 
 nav ul {

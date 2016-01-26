@@ -4,6 +4,7 @@ layout: default
   <div id="main">
 
     <nav><ul>
+      <a class="back" href="../"><i class="fa fa-chevron-left"></i></a>
       {% for node in site.categories.2015 reversed %}
         {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
         <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
