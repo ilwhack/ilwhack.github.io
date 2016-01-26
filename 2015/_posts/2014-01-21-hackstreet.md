@@ -1,7 +1,7 @@
 ---
-title: Hackstreet
+title: WhereNow
 bg: turquoise
-fa-icon: map
+fa-icon: globe
 ---
 
 ## The Hackstreet Boyz
