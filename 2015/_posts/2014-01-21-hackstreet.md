@@ -1,6 +1,7 @@
 ---
 title: Hackstreet
 bg: turquoise
+fa-icon: map
 ---
 
 ## The Hackstreet Boyz

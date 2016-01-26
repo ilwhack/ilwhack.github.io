@@ -1,6 +1,7 @@
 ---
 title: UniCompass
 bg: orange
+fa-icon: compass
 ---
 
 ## UniCompass

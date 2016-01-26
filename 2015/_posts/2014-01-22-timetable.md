@@ -1,6 +1,7 @@
 ---
 title: Timetable2Cal
 bg: softgreen
+fa-icon: calendar
 ---
 
 ## Timetable2Calendar

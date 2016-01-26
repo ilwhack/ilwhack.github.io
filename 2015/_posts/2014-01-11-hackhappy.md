@@ -1,6 +1,7 @@
 ---
 title: Hack Happy
 bg: turquoise
+fa-icon: terminal
 ---
 
 ## Hack Happy 

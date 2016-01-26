@@ -1,6 +1,7 @@
 ---
 title: FloweryMonsters
 bg: darkred
+fa-icon: optin-monster
 ---
 
 ## FloweryMonsters
