@@ -1,5 +1,6 @@
 ---
 title: Hack Happy
+bg: turquoise
 ---
 
 ## Hack Happy 

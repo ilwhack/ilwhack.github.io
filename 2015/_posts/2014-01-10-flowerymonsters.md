@@ -1,5 +1,6 @@
 ---
 title: FloweryMonsters
+bg: darkred
 ---
 
 ## FloweryMonsters
