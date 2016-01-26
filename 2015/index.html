@@ -4,14 +4,14 @@
   <div id="main">
 
     <nav><ul>
-      {% for node in site.categories.2015-winners reversed %}
+      {% for node in site.categories.2015 reversed %}
         {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
         <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
       {% endfor %}
     </ul></nav>
 
 
-    {% for page in site.categories.2015-winners reversed %}
+    {% for page in site.categories.2015 reversed %}
       {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
       <div id="{{id}}" class="section p-{{id}}">
         {% if page.icon %}
