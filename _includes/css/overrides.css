@@ -1,0 +1,17 @@
+html *
+{
+     font-family: 'Open Sans', sans-serif; 
+}
+
+.fa {
+    font-family: FontAwesome;
+}
+
+.back{
+    font-size:300% !important;
+    color: #DDDDDD;
+    padding-right: 2%;
+    padding-top: 5px;
+    position: relative;
+    top: 7px;
+}
