@@ -5,14 +5,14 @@ layout: default
 
 <nav><ul>
   {% for node in site.categories.2016 reversed %}
-    {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
+    {% capture id %}{{ node.id | remove:'/' | downcase | prepend:'id'}}{% endcapture %}
     <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
   {% endfor %}
 </ul></nav>
 
 
 {% for page in site.categories.2016 reversed %}
-  {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
+  {% capture id %}{{ page.id | remove:'/' | downcase | prepend:'id' }}{% endcapture %}
   <div id="{{id}}" class="section p-{{id}}">
     {% if page.icon %}
     <div class="subtlecircle sectiondivider imaged">

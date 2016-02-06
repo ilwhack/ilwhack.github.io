@@ -7,7 +7,6 @@ safe: false
 
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore, _posts_2015, Gemfile, Gemfile.lock]
-permalink: / ## disables post output
 timezone: Europe/London
 lsi: false
 markdown: kramdown
