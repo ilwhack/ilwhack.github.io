@@ -20,7 +20,7 @@ description: "Home page for the University of Edinburgh Smart Data Hack"
 source_link: "https://github.com/ilwhack/ilwhack.github.io"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
-google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: UA-73395964-2
 
 
 ### template colors, used site-wide via css ###
