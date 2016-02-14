@@ -44,7 +44,7 @@ Dixons Carphone will offer a prize for the Best Overall project.
 
 ---
 
-### Dixons Carphone
+### [Dixons Carphone](//www.dixonscarphonegroup.com)
 
 #### eCommerce &amp; Customer Experience
 
@@ -58,12 +58,15 @@ Examples include:
 
 **Key Datasets:** [Revoo API](http://reevoo.github.io/docs/reevooapi/reevooapi-getting-started/) (An API key will be supplied)
 
-**Contact:**  Christopher Ward (Christopher.Ward1[AT]DixonsCarphone.com)
+**Contact:**  
+
+* Christopher Ward, Christopher.Ward1[AT]DixonsCarphone.com
+* Adam Woodhouse, Adam.Woodhouse[AT]DixonsCarphone.com
 
 ---
 
 
-### Amey
+### [Amey](//www.amey.co.uk)
 
 ####  Transport Data Analytics
 
@@ -80,12 +83,12 @@ Or, for Edinburgh:
 
 **Contact:**  
 
-Pedro Baiz,, Pedro.Baiz[AT]amey.co.uk
+* Pedro Baiz, Pedro.Baiz[AT]amey.co.uk
 
 
 ---
 
-### Aquila Insight
+### [Aquila Insight](//www.aquilainsight.com)
 
 #### Geographic Business Intelligence
 
@@ -118,12 +121,12 @@ We would like you to explore how open data could be incorporated, e.g.
 
 **Contact:**  
 
-Steve Farquhar, steve.farquhar[AT]quilainsight.com<br/>
-Euan Robertson, euan.robertson[AT]aquilainsight.com
+* Steve Farquhar, steve.farquhar[AT]quilainsight.com<br/>
+* Euan Robertson, euan.robertson[AT]aquilainsight.com
 
 ---
 
-### City of Edinburgh Council
+### [City of Edinburgh Council](//www.edinburgh.gov.uk/)
 
 #### Data as Art
 
@@ -179,11 +182,9 @@ Art related
 * Sally Kerr, [@WeeBletherer](http://twitter.com/weebletherer), sally.kerr@edinburgh.gov.uk
 
 
-
-
 ---
 
-### UoE Information Services | Learning Teaching and Web
+### Information Services, [Learning Teaching and Web](http://www.ed.ac.uk/information-services/about/organisation/learning-teaching-web)
 
 #### A Mobile App for Campus
 
@@ -191,8 +192,10 @@ Build a cross-platform app for [Virtual Edinburgh](http://datablog.is.ed.ac.uk/f
 
 **Key Datasets**: See <https://www.wiki.ed.ac.uk/x/yAsFDw> (requires EASE authentication)
 
-**Contacts**: Hristo Meshinski<br/>
-Martin Morrey (martin.morrey[AT]ed.ac.uk)
+**Contacts**:
+
+* Hristo Meshinski, hmeshins[AT]exseed.ed.ac.uk
+* Martin Morrey, martin.morrey[AT]ed.ac.uk)
 
 
 ---
@@ -214,5 +217,7 @@ The challenges are:
 **Key Datasets**:
 TBC
 
-**Contacts**: Pete Masters, [@pedrito1414](https://twitter.com/pedrito1414), Pete.Masters[AT]london.msf.org<br/>
-Jamie Cross (Jamie.Cross[AT]ed.ac.uk)
+**Contacts**:
+
+* Pete Masters, [@pedrito1414](https://twitter.com/pedrito1414), Pete.Masters[AT]london.msf.org<br/>
+* Jamie Cross, Jamie.Cross[AT]ed.ac.uk
