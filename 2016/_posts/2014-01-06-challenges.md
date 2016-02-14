@@ -65,21 +65,10 @@ Examples include:
 
 ---
 
-###
-
-####
-
-
-
-**Key Datasets:**
-
-**Contact:**  
-
----
 
 ### Amey
 
-#### Transport Data APIs
+#### Managing Transport Data
 
 In all societies, the transportation system is vital because it connects people, goods, and services. In recent decades, significant increases in urbanization have placed a burden on most cities transport systems around the world. The goal of this challenge is to provide a holistic view of the public transport network of a city like London in order to predict demand and optimise capacity, assets and infrastructure.
 
@@ -87,6 +76,8 @@ In all societies, the transportation system is vital because it connects people,
 
 * [TfL API](https://tfl.gov.uk/info-for/open-data-users/)
 * [Network Rail API](https://datafeeds.networkrail.co.uk/ntrod/login)
+
+Or, for Edinburgh:
 
 * [Edinburgh Bus Tracker](http://www.mybustracker.co.uk/?page=API%20Key)
 
@@ -99,27 +90,39 @@ Pedro Baiz,, Pedro.Baiz[AT]amey.co.uk
 
 ### Aquila Insight
 
-####
+#### Using Geography-related Data
 
 Organisations are constantly looking at how they can efficiently communicate with the users and customers they serve.  Whether it is a bank, retail company or local council, understanding geographical differences can make the difference between success or failure.
 
-Consider supermarket brands such as Waitrose &mdash; they would have a desire to a) place their store optimally to attract people who might be interested in their brand and what they offer and b) avoid spending money on advertising in an area that does not have a Waitrose store.
+Consider supermarket brands such as Waitrose &mdash; they would have a desire to (i) place their store optimally to attract people who might be interested in their brand and what they offer and (ii) avoid spending money on advertising in an area that does not have a Waitrose store.
 
 There are typically a number of elements organisations look at when focusing on a particular geography:
 
 * Regional activity levels for the type of product &mdash; is it a buoyant market or in decline?
-* The population density of the area
-* People who are likelihood to buy the specific product type e.g. wealth and need profiles
-* The transport network &mdash; is it convenient for staff and customers to reach the business?
-* The extent of existing physical outlets in a given area &mdash; existing stores/branches, partners, competitors
-* Marketing expenditure within the area
+* The population density of the area.
+* People who are likely to buy a specific product type or use a service, e.g. wealth and need profiles.
+* The transport network &mdash; is it convenient for staff and customers to reach the business or service?
+* The extent of existing physical outlets in a given area &mdash; existing stores/branches, partners, competitors.
+* Marketing expenditure within the area.
 
 
 **Key Datasets:**
 
+We can provide access to data that has some relevant data such as:
+
+* Postcode lookup file
+* Population segmentation data
+* Land registry data
+
+We would like you to explore how open data could be incorporated, e.g.
+
+* [data.gov.uk](https://data.gov.uk)
+
+
 **Contact:**  
 
-Steve Farquhar, steve.farquhar[AT]quilainsight.com
+Steve Farquhar, steve.farquhar[AT]quilainsight.com<br/>
+Euan Robertson, euan.robertson[AT]aquilainsight.com
 
 ---
 
@@ -185,13 +188,14 @@ Art related
 
 ### UoE Information Services | Learning Teaching and Web
 
-####
+#### The Student Experience
 
-
+Build a cross-platform app for [Virtual Edinburgh](http://datablog.is.ed.ac.uk/files/2015/09/Silvertown-Dealing-with-Data-31.8.15-Final.pdf) with [AppGyver mobile maker platform](http://www.appgyver.com/)
 
 **Key Datasets**: See <https://www.wiki.ed.ac.uk/x/yAsFDw> (requires EASE authentication)
 
-**Contacts**: Martin Morrey (martin.morrey[AT]ed.ac.uk)
+**Contacts**: Hristo Meshinski<br/>
+Martin Morrey (martin.morrey[AT]ed.ac.uk)
 
 
 ---
@@ -207,7 +211,7 @@ The challenges are:
 
 * Visualising Missing Maps data contributions for remote mappers and
 local communities.
-* Developing a JOSM plugin that can make editing field data in OSM more intuitive and efficient.
+* Developing a [JOSM plugin](https://josm.openstreetmap.de/wiki/Plugins) that can make editing field data in OSM more intuitive and efficient.
 
 
 
