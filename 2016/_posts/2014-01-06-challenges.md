@@ -15,32 +15,29 @@ You will be judged along the following dimensions:
 * Novelty (how original is your idea?)
 * Execution (how well does your project function and do what it should?)
 * Design (how well does your project address and satisfy real user needs?)
-* Sustainability (do you have a credible plan for making your project sustainable?)
+* Business potential (do you have a credible plan for making your project sustainable?)
 * Teamwork (how well did you work together and distribute tasks?)
 
-You don’t need to score points in all of these, but the more you do the better you’re project is likely to be. That’s why it might be helpful to have a team of people from mixed backgrounds &mdash; programmers, designers and business people &mdash; all working together. But if you don’t have a mixed team, you can make up a shortfall in one dimension by doing really well in another.
+You don’t need to score points in all of these, but the more you do the better you’re project is likely to be. That’s why it is really helpful to have a team of people from mixed backgrounds &mdash; programmers, designers and business people &mdash; all working together. But if you don’t have a mixed team, you can make up a shortfall in one dimension by doing really well in another.
 
+<!--
 ## Themes
 
 Use of the particular themes will be taken into account by the people judging your project, so you might have more chance of winning a prize if you work on something in one or more of these areas. This year's themes are:
 
-* Communities and civic engagement
-* International development
-* Travel and adventure
-* Data visualisation
-* Student experience
+* eCommerce and Customer Experience
+* Mobility Data Analytics
+* Geographic Business Intelligence
+* Data Visualisation
+* Community Mapping
+* Student Experience
+-->
 
-<!-- ## Special Prizes
+## Special Prizes
 
-### CompSoc Best Data Mashup
+### Dixons Carphone Best Overall
 
-This is a challenge to produce the best (or silliest) thing you can by mashing together multiple different sources of data.
-
-### Hopper's Helpful Hacker Prize: Kindle
-
-Is there a person who went out of there way to help you and your team during the Smart Data Hack? Was there a person who showed you something new, or took time to explain how something works? Nominate them for the Hopper's Helpful Hacker prize.
-
-Please drop an email to ilw-hack[AT]inf.ed.ac.uk with the subject line "most helpful hacker" and your nomination in the body. -->
+Dixons Carphone will offer a prize for the Best Overall project.
 
 
 ## Sponsored challenges
@@ -68,7 +65,7 @@ Examples include:
 
 ### Amey
 
-#### Managing Transport Data
+####  Transport Data Analytics
 
 In all societies, the transportation system is vital because it connects people, goods, and services. In recent decades, significant increases in urbanization have placed a burden on most cities transport systems around the world. The goal of this challenge is to provide a holistic view of the public transport network of a city like London in order to predict demand and optimise capacity, assets and infrastructure.
 
@@ -90,7 +87,7 @@ Pedro Baiz,, Pedro.Baiz[AT]amey.co.uk
 
 ### Aquila Insight
 
-#### Using Geography-related Data
+#### Geographic Business Intelligence
 
 Organisations are constantly looking at how they can efficiently communicate with the users and customers they serve.  Whether it is a bank, retail company or local council, understanding geographical differences can make the difference between success or failure.
 
@@ -188,7 +185,7 @@ Art related
 
 ### UoE Information Services | Learning Teaching and Web
 
-#### The Student Experience
+#### A Mobile App for Campus
 
 Build a cross-platform app for [Virtual Edinburgh](http://datablog.is.ed.ac.uk/files/2015/09/Silvertown-Dealing-with-Data-31.8.15-Final.pdf) with [AppGyver mobile maker platform](http://www.appgyver.com/)
 
@@ -209,8 +206,7 @@ The [Missing Maps Project](http://www.missingmaps.org) aims to map the most vuln
 
 The challenges are:
 
-* Visualising Missing Maps data contributions for remote mappers and
-local communities.
+* Visualising Missing Maps data contributions for remote mappers and local communities.
 * Developing a [JOSM plugin](https://josm.openstreetmap.de/wiki/Plugins) that can make editing field data in OSM more intuitive and efficient.
 
 
