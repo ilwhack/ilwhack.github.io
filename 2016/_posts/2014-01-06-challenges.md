@@ -88,6 +88,8 @@ In all societies, the transportation system is vital because it connects people,
 * [TfL API](https://tfl.gov.uk/info-for/open-data-users/)
 * [Network Rail API](https://datafeeds.networkrail.co.uk/ntrod/login)
 
+* [Edinburgh Bus Tracker](http://www.mybustracker.co.uk/?page=API%20Key)
+
 **Contact:**  
 
 Pedro Baiz,, Pedro.Baiz[AT]amey.co.uk
@@ -132,7 +134,32 @@ How can you inspire, inform and educate with our data? 3D modelling and printing
 
 **Datasets and Examples**
 
+Council data and data use examples
 
+* [Edinburgh Open Data Portal](www.edinburghopendata.info)
+* [Edinburgh by Numbers](http://edinburgh.gov.uk/info/20247/edinburgh_by_numbers)
+* [Allotments in Edinburgh](http://edinburgh.gov.uk/info/20122/allotments/265/allotments_in_edinburgh)
+* [Roseburn to Leith Walk cycle link and street improvements](https://consultationhub.edinburgh.gov.uk/sfc/roseburntoleith)
+* [Edinburgh Key Facts and Figures booklet](http://edinburgh.gov.uk/downloads/file/5556/key_facts_and_figures_booklet_2015-2016)
+
+Data as art examples
+
+* [KCMO.gov » The Art of Data](http://kcmo.gov/citymanagersoffice/creative-services/art-of-data)
+* [the latest delivery](http://dear-data.com/all)
+* [Big Bang Data](http://bigbangdata.somersethouse.org.uk)
+* [Art made of data](https://ted.com/playlists/201/art_from_data)
+* [From Paint to Pixels](http://theatlantic.com/entertainment/archive/2015/05/the-rise-of-the-data-artist/392399)
+* [7 Artists Use Data as a Muse](http://iq.intel.com/turning-data-visualization-art-7-artists-using-data-muse)
+* [How the art world is reacting to big data](http://prospectmagazine.co.uk/science-and-technology/sublime-by-numbers-how-the-art-world-is-reacting-to-big-data)
+* [Art made of data](http://ted.com/playlists/201/art_from_data?utm_campaign=newsletter_weekly&utm_content=playlist_button&utm_medium=email&utm_source=newsletter_weekly_2015-01-10)
+* [Data as Culture](https://theodi.org/culture)
+* [Air Transformed](http://www.miriamquick.com/air-transformed/)
+* [Data Cuisine](http://data-cuisine.net)
+
+Art related
+
+* [What is graffiti knitting? Graffiti knitting explained](http://whodunnknit.com/graffiti_knits_explained)
+* [Forever by Ai Weiwei, installation time lapse](https://youtube.com/watch?feature=youtu.be&v=XzTi5_0juWg)
 
 
 <!-- **Key Datasets**:
@@ -169,14 +196,23 @@ How can you inspire, inform and educate with our data? 3D modelling and printing
 
 ---
 
-### [](http://practicalaction.org) and the [Global Development Academy](http://www.ed.ac.uk/schools-departments/global-development)
+### [Médecins sans Frontières](http://www.msf.org) &amp; [Global Development Academy](http://www.ed.ac.uk/schools-departments/global-development)
 
 
-####
+#### Missing Maps
 
+The [Missing Maps Project](http://www.missingmaps.org) aims to map the most vulnerable people in the world, in preparation for or during humanitarian crises. This is a collaboration between the American British Red Cross, Médecins sans Frontières (MSF) and the H[umanitarian OpenStreetMap Team](https://hotosm.org) (HOT). Base maps are created using OpenStreetMap.
+
+The challenges are:
+
+* Visualising Missing Maps data contributions for remote mappers and
+local communities.
+* Developing a JOSM plugin that can make editing field data in OSM more intuitive and efficient.
 
 
 
 **Key Datasets**:
+TBC
 
-**Contacts**: Jamie Cross (Jamie.Cross[AT]ed.ac.uk)
+**Contacts**: Pete Masters, [@pedrito1414](https://twitter.com/pedrito1414), Pete.Masters[AT]london.msf.org<br/>
+Jamie Cross (Jamie.Cross[AT]ed.ac.uk)
