@@ -187,7 +187,20 @@ Art related
 
 ### Information Services, [Learning Teaching and Web](http://www.ed.ac.uk/information-services/about/organisation/learning-teaching-web)
 
-#### A Mobile App for Campus
+#### How can we make MyEd more relevant and useful?
+
+MyEd can get up to 100,000 logins per day, including up to 20,000 from mobile devices.  However, the information offered on MyEd can often seem confusing and overwhelming. How can we present the information in a way that makes more sense to students?
+
+More specifically, what improvements can be achieved by:
+
+* combining existing data with user attributes, and
+* combining location data with other information sources.
+
+<!-- The first mobile-friendly version of MyEd was released in October 2014, more than doubling the number of users accessing MyEd on mobile devices.  IS aims to continually improve the value of MyEd, especially on mobiles, and is starting to open-up data and APIs that are relevant to this challenge.
+ -->
+
+
+#### Virtual Edinburgh Mobile Maker Platform
 
 Build a cross-platform app for [Virtual Edinburgh](http://datablog.is.ed.ac.uk/files/2015/09/Silvertown-Dealing-with-Data-31.8.15-Final.pdf) with [AppGyver mobile maker platform](http://www.appgyver.com/)
 
@@ -196,6 +209,7 @@ Build a cross-platform app for [Virtual Edinburgh](http://datablog.is.ed.ac.uk/f
 **Contacts**:
 
 * Hristo Meshinski, hmeshins[AT]exseed.ed.ac.uk
+* Mariss Warner-Wu, marissa.warner-wu[AT]ed.ac.uk
 * Martin Morrey, martin.morrey[AT]ed.ac.uk)
 
 
@@ -210,8 +224,8 @@ The [Missing Maps Project](http://www.missingmaps.org) aims to map the most vuln
 
 The challenges are:
 
-* Visualising Missing Maps data contributions for remote mappers and local communities.
-* Developing a [JOSM plugin](https://josm.openstreetmap.de/wiki/Plugins) that can make editing field data in OSM more intuitive and efficient.
+* Visualising Missing Maps data contributions so that remote mappers and local communities can get feedback about their progress in providing missing information.
+* Developing a [JOSM plugin](https://josm.openstreetmap.de/wiki/Plugins) that makes it easier to upload to OSM data captured in the field
 
 
 
