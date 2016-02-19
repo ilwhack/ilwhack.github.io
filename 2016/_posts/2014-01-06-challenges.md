@@ -21,6 +21,21 @@ You will be judged according to the following criteria:
 
 You don’t need to score points in all of these, but the more you do the better you’re project is likely to be. That’s why it is really helpful to have a team of people from mixed backgrounds &mdash; programmers, designers and business people &mdash; all working together. But if you don’t have a mixed team, you can make up a shortfall in one dimension by doing really well in another.
 
+## Judging
+
+Judging will be carried out in two phases. 
+
+### Phase 1: 13:30 - 15:00, Forrest Hill
+
+You will be allocated a table somewhere in the Drill Hall or nearby. Judges will come to visit you and talk about your project. It’s up to you whether you want to talk to more than one judge at a time. This is opportunity for you explain your project in depth. 
+
+At 15:00, make your way over to G07 in Informatics Forum.
+
+### Phase 2: 15:30 - 16:30, Informatics Forum
+
+You will be given 5 mins to pitch your project to the judges (and anyone else who’s interested). You won’t have time to explain your project in depth, but at least some of the judges will have already talked to you. In order to structure your pitch, we recommend that you use the [Value Proposition Canvas](http://www.peterjthomson.com/2013/11/value-proposition-canvas/) model.
+
+After the pitches are over, the judges will confer about prizes, and we aim to have the awards ceremony at 17:30.
 
 <!-- ## Themes
 
